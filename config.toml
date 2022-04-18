@@ -1,0 +1,11 @@
+baseURL = "https://example.com/"
+
+languageCode = "en-us"
+title = "Hamming Guo's website"
+publishDir = "docs"
+
+theme = "hugo-coder"
+
+[module]
+[module.hugoVersion]
+min = "0.77.0"
